@@ -1,20 +1,15 @@
 ---
 name: Custom issue template
-about: Refinamentos
+about: Novas Funcionalidades
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-### Caminho da Tela
+### Problema de negócio
 
-
-### Problema constatado
-
-### Indicação de melhoria
-
-### Requisitos não funcionais
+### Requisitos funcionais
 
 ### Requisitos não funcionais
 
@@ -24,5 +19,4 @@ assignees: ''
 
 ### Critérios de aceitação
 
-
-### Dacumentos de apoio
+### Documentos de apoio
