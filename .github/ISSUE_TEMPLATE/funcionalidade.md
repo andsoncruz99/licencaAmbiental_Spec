@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Funcionalidade
 about: Novas Funcionalidades
 title: ''
 labels: ''
