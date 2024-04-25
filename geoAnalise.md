@@ -22,7 +22,27 @@ Durante o processo de lincenciamento o técnico analisando a documentação pode
 
 #### R1 - Manter grupos/categorias de atividades
 
+Sistema deve permitir a criação de grupo ou categorias para agrupamento das atividades, a fim de facilitar a o cadastro e a manutenção dos requisitos, de acorde com os tipos de análise esperado.
+
+##### R1.1 - Deve permitir a busca de regsitro por grupo ou por atividade
+
+##### R1.2 - Cada atividade só poderá está em um grupo
+
+##### R1.3 - Deve permitir a inclusão/remoção de atividades nos grupos
+
 #### R2 - Manter Bases GeoReferênciadas
+
+##### R2.1 – Permitir inserir diversas bases
+
+##### R2.2 – Permitir atualizar bases cadastradas
+
+##### R2.3 – Permitir remover bases cadastrada
+
+##### R2.4 – Visualizar uma base existente
+
+##### R2.5 – Vincular uma base a um processo de licenciamento
+
+##### R2.6 – Emitir relatório de bases vencidas
 
 #### R3 - Manter relação de pre-requistos documentais às análise, a partir dos grupos
 
@@ -47,4 +67,3 @@ Não se aplica
 ### MODELO DE DADO PROPOSTO
 
 ### PROTÓTIPOS
-
