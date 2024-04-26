@@ -82,11 +82,11 @@
 
 #### R4 - Indentificar se a área proposta sobrepõe área já cadastrada
 
-&nbsp;&nbsp;Quando do cadastro de propriedades o sistema deve verificar se o shape enviado já corresponde a propriedade cadastrada no sistema, caso isso ocorra o sistema não deve permitir o cadastro da nova propriedade. Quando da análise o sistema também deve verificar se a área da propriedade sobrepõe outra propriedade cadastrada, caso isso ocorra o sistema de indicar as coordenadas e a área da sobreposição
+&nbsp;&nbsp;Quando do cadastro de propriedades o sistema deve verificar se o shape enviado já corresponde a propriedade cadastrada no sistema, caso isso ocorra nos casos em que o CPF do proproietário for o mesom do cadastrado o sistema deve notificar que a propriedade já está cadastrada e não deve permitir o cadastro da nova propriedade, caso o CPF seja diferente o sistema deve gerar uma notificação para essa situação. Quando da análise o sistema também deve verificar se a área da propriedade sobrepõe outra propriedade cadastrada, caso isso ocorra o sistema de indicar as coordenadas e a área da sobreposição ( O técnico Fábio vai enviar a fórmula por e-mail)
 
 #### R5 - Identificar se a área proposta sobrepõe áreas nas Bases GeoReferênciadas
 
-&nbsp;&nbsp;Quando da análise o sistema também deve verificar se a área da propriedade sobrepõe áreas nas bases cadastradas, caso isso ocorra o sistema de indicar as coordenadas e a área da sobreposição
+&nbsp;&nbsp;Quando da análise o sistema também deve verificar se a área da propriedade sobrepõe áreas nas bases cadastradas, caso isso ocorra o sistema de indicar as coordenadas e a área da sobreposição ( O técnico Fábio vai enviar a fórmula por e-mail)
 
 #### R6 - Permitir download das Bases cadastradas
 
