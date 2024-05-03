@@ -1,4 +1,4 @@
-![Trampo Informártica](Imagens/logo.png)
+![Trampo Informártica](logo.png)
 
 # MÓDULO DE GEOPROCESSAMENTO
 
@@ -100,8 +100,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;O Sistema deverá premitir o registro dos textos necessários para emissão dos pareceres, conforme um dos modelos abaixo
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Modelo de Parecer Simples](Documentos/Modelo%20de%20PARECER%20Simples.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp; [Modelo de Parecer Completo](Documentos/Modelo%20de%20Parecer%20Completo.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; [Modelo de Parecer Simples](Modelo%20de%20PARECER%20Simples.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp; [Modelo de Parecer Completo](Modelo%20de%20Parecer%20Completo.pdf)
 
 #### R9 - Permitir anexar documentos em pdf e juntá-los como anexo ao parecer
 
@@ -127,16 +127,16 @@ Modelo será definido após definição das telas
 ### PROTÓTIPOS
 
 Lista de Grupos
-![Lista de Grupos](Imagens/ListaGrupo.png)
+![Lista de Grupos](ListaGrupo.png)
 
 Cadastro de Grupos de Atividades
-![Cadastro de Grupos de Atividades](Imagens/CadastroGrupo.png)
+![Cadastro de Grupos de Atividades](CadastroGrupo.png)
 
 Lista de Bases
-![Lista de Bases](Imagens/listaBases.png)
+![Lista de Bases](listaBases.png)
 
 Cadastro de Bases
-![Cadastro de Bases](Imagens/cadastroBases.png)
+![Cadastro de Bases](cadastroBases.png)
 
 Análise GEO
-![Análise GEO](Imagens/analiseGEO.png)
+![Análise GEO](analiseGEO.png)
